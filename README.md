@@ -1,9 +1,9 @@
-# A smal car simulation for schoool
+# A small car simulation for school
 A simple consol app that lets user simulate a car race with random events happening every 30 sec
 
 ### Overview
 Simulates a race between three cars.
-You could adda method to add as many cars that you want , the code should still work as it is.
+You could adda a method to add as many cars that you want , the code should still work as it is.
 ### Functionality
 Car objects are used by creating instances of the Car class.
 -(Id)
